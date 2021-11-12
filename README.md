@@ -48,3 +48,5 @@ Häussler J, Sahlin U, Baey C, Smith HG, Clough Y (2017) Predicting pollinator c
 Gardner, E., Breeze, T.D., Clough, Y., Baldock, K.C.R., Campbell, A., Garratt, M., Gillespie, M.A.K., Kunin, W.E., Mckerchar, M., Memmott, J. and Potts, S.G. (2020). Reliably predicting pollinator abundance: challenges of calibrating process-based ecological models. Methods in Ecology and Evolution (accepted 8 July 2020)
 
 Image, M., Gardner, E., Clough, Y., Smith, H. G., Baldock, K. C. R., Campbell, A., … Breeze, T. D. (2021). Does agri-environment scheme participation in England increase pollinator populations and crop pollination services? Agriculture, Ecosystems & Environment (accepted 5 Nov 2021)
+
+https://zenodo.org/badge/latestdoi/427044957
