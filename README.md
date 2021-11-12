@@ -1,6 +1,7 @@
 # poll4pop_python
 Python code for poll4pop model
 
+
 Adapted from the original R versions on https://github.com/yclough/poll4pop/tree/v1.1.1 
 These functions are analagous to the R versions but are designed to operate on numpy array land cover / edge inputs rather than rasters. This allows the code to be generic to different GIS interfaces (ArcGIS, Q) but requires the user to pre-generate numpy arrays from rasters. E.g. see https://pro.arcgis.com/en/pro-app/latest/arcpy/functions/rastertonumpyarray-function.htm for relevant function. 
 
